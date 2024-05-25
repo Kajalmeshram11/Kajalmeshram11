@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kajal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Kajalmeshram11/Kajalmeshram11/assets/135068642/4a80ef1c-af36-4ef6-bb19-baab3483870c)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Kajalmeshram11/Kajalmeshram11/assets/135068642/3c7182c3-667f-4e3f-a228-cc1c932a8684)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalmeshram11&label=Profile%20views&color=0e75b6&style=flat" alt="kajalmeshram11" /> </p>
