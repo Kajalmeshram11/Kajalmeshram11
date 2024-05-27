@@ -3,6 +3,8 @@
 <img align="right" alt="coding" width="400" src="https://www.creativefabrica.com/wp-content/uploads/2022/05/25/1653463225/Asian-Developer-Female.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalmeshram11&label=Profile%20views&color=0e75b6&style=flat" alt="kajalmeshram11" /> </p>
+<img align="right" alt="coding" width="400" src="https://github.com/Kajalmeshram11/Kajalmeshram11/assets/135068642/806dfbae-63de-4d44-b25d-276bda39689f">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
