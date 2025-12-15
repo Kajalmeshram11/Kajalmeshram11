@@ -18,10 +18,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajalmeshram11&show_icons=true&locale=en&layout=compact" alt="kajalmeshram11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kajalmeshram11&show_icons=true&locale=en" alt="kajalmeshram11" /></p>
+<img src="https://raw.githubusercontent.com/kajalmeshram11/kajalmeshram11/main/streak.png" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kajalmeshram11&theme=default" />
-</p>
 
 
 
