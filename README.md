@@ -17,10 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajalmeshram11&show_icons=true&locale=en&layout=compact" alt="kajalmeshram11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kajalmeshram11&show_icons=true&locale=en" alt="kajalmeshram11" />
-</p>![GitHub Streak](https://streak-stats.demolab.com?user=kajalmeshram11)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kajalmeshram11&show_icons=true&locale=en" alt="kajalmeshram11" /></p>
 
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kajalmeshram11&" alt="kajalmeshram11" /></p>
